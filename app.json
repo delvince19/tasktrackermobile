@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "tasktrackermobile",
+    "slug": "tasktrackermobile",
+    "version": "1.0.0",
+    "icon": "./img/TaskTracker.png"
+  },
+  "name": "tasktrackermobile"
+}
